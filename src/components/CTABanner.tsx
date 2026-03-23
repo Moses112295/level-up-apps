@@ -23,7 +23,7 @@ const CTABanner = () => (
             Join 50+ companies that transformed their digital presence. Your free strategy session is one click away.
           </p>
           <Button variant="hero" size="lg" className="text-base px-10 py-6" asChild>
-            <a href="https://calendly.com" target="_blank" rel="noopener noreferrer">
+            <a href="https://calendly.com/abdurrehman-4/levelmeup" target="_blank" rel="noopener noreferrer">
               Book Your Free Call Now <ArrowRight className="w-5 h-5 ml-1" />
             </a>
           </Button>
