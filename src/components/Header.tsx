@@ -47,7 +47,7 @@ const Header = () => {
 
         <div className="hidden lg:flex items-center gap-3">
           <Button variant="hero" size="lg" asChild>
-            <a href="https://calendly.com" target="_blank" rel="noopener noreferrer">
+            <a href="https://calendly.com/abdurrehman-4/levelmeup" target="_blank" rel="noopener noreferrer">
               Book a Free Call
             </a>
           </Button>
@@ -81,7 +81,7 @@ const Header = () => {
                 </a>
               ))}
               <Button variant="hero" size="lg" asChild>
-                <a href="https://calendly.com" target="_blank" rel="noopener noreferrer">
+                <a href="https://calendly.com/abdurrehman-4/levelmeup" target="_blank" rel="noopener noreferrer">
                   Book a Free Call
                 </a>
               </Button>

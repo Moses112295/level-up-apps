@@ -50,14 +50,14 @@ const HeroSection = () => {
             className="flex flex-col sm:flex-row items-center justify-center gap-4"
           >
             <Button variant="hero" size="lg" className="text-base px-8 py-6" asChild>
-              <a href="https://calendly.com" target="_blank" rel="noopener noreferrer">
+              <a href="https://calendly.com/abdurrehman-4/levelmeup" target="_blank" rel="noopener noreferrer">
                 Book a Free Strategy Call
                 <ArrowRight className="w-5 h-5 ml-1" />
               </a>
             </Button>
             <Button variant="heroOutline" size="lg" className="text-base px-8 py-6" asChild>
               <a
-                href="https://wa.me/1234567890?text=Hi%2C%20I%27m%20interested%20in%20building%20an%20app"
+                href="https://wa.me/447500557059?text=Hi%2C%20I%27m%20interested%20in%20building%20an%20app"
                 target="_blank"
                 rel="noopener noreferrer"
               >

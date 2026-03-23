@@ -73,7 +73,7 @@ const PricingSection = () => (
               className="w-full"
               asChild
             >
-              <a href="https://calendly.com" target="_blank" rel="noopener noreferrer">
+              <a href="https://calendly.com/abdurrehman-4/levelmeup" target="_blank" rel="noopener noreferrer">
                 Get Started <ArrowRight className="w-4 h-4 ml-1" />
               </a>
             </Button>

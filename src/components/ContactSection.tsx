@@ -35,15 +35,15 @@ const ContactSection = () => {
             <div className="space-y-4 mb-8">
               <div className="flex items-center gap-3 text-secondary-foreground">
                 <Mail className="w-5 h-5 text-primary" />
-                hello@levelmeup.dev
+                abdurrehman@levelmeup.app
               </div>
               <div className="flex items-center gap-3 text-secondary-foreground">
                 <Phone className="w-5 h-5 text-primary" />
-                +1 (555) 123-4567
+                +44 7500 557059
               </div>
             </div>
             <Button variant="hero" size="lg" asChild>
-              <a href="https://calendly.com" target="_blank" rel="noopener noreferrer">
+              <a href="https://calendly.com/abdurrehman-4/levelmeup" target="_blank" rel="noopener noreferrer">
                 Book a Free Strategy Call <ArrowRight className="w-4 h-4 ml-1" />
               </a>
             </Button>
