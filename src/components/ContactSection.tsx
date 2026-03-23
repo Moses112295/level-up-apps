@@ -39,7 +39,7 @@ const ContactSection = () => {
               </div>
               <div className="flex items-center gap-3 text-secondary-foreground">
                 <Phone className="w-5 h-5 text-primary" />
-                +1 (555) 123-4567
+                +44 7500 557059
               </div>
             </div>
             <Button variant="hero" size="lg" asChild>
