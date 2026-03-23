@@ -43,7 +43,7 @@ const ContactSection = () => {
               </div>
             </div>
             <Button variant="hero" size="lg" asChild>
-              <a href="https://calendly.com" target="_blank" rel="noopener noreferrer">
+              <a href="https://calendly.com/abdurrehman-4/levelmeup" target="_blank" rel="noopener noreferrer">
                 Book a Free Strategy Call <ArrowRight className="w-4 h-4 ml-1" />
               </a>
             </Button>
